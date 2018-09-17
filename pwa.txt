@@ -1,7 +1,53 @@
+Agenda
+- CouchDB
+- PouchDB
+- PWA
+- Simple Todo app
+
+CouchDB
+- CouchDB is a NoSQL database created in 2005 by Damien Katz, and now maintained by the Apache Software Foundation. If you are a JavaScript developer, you probably use CouchDB every day, because it's the core technology that powers npm
+- https://pouchdb.com/guides/replication.html
+- http://docs.couchdb.org/en/stable/replication/conflicts.html
+- https://pouchdb.com/guides/conflicts.html
+- HTTP
+- Bulk
+
+PouchDB
+- PouchDB is an in-browser database that allows applications to save data locally, so that users can enjoy all the features of an app even when they're offline. Plus, the data is synchronized between clients, so users can stay up-to-date wherever they go.
+- PouchDB supports all modern browsers, using IndexedDB under the hood and falling back to WebSQL where IndexedDB isn't supported. It is fully tested and supported in:
+
+Firefox 29+ (Including Firefox OS and Firefox for Android)
+Chrome 30+
+Safari 5+
+Internet Explorer 10+
+Opera 21+
+Android 4.0+
+iOS 7.1+
+Windows Phone 8+
+
+- PouchDB also runs in Cordova/PhoneGap, NW.js, Electron, and Chrome apps. It is framework-agnostic, and you can use it with Angular, React, Ember, Backbone, or your framework of choice. There are many adapters, or you can just use PouchDB as-is.
+
+- https://pouchdb.com/guides/attachments.html
+- https://pouchdb.com/adapters.html
+
+
 PWA:
 - https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#making-a-progressive-web-app
 - https://developers.google.com/web/progressive-web-apps/
+- https://developers.google.com/web/fundamentals/web-app-manifest/
+- Lighthouse
 
 SW: 
 - https://caniuse.com/#feat=serviceworkers
 
+Useful:
+https://couchdb.readthedocs.io/en/latest/maintenance/compaction.html#compaction
+http://docs.couchdb.org/en/latest/ddocs/views/intro.html
+https://github.com/pouchdb-community/pouchdb-authentication/blob/master/docs/recipes.md
+https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html
+https://pouchdb.com/faq.html#data_limits
+https://serviceworke.rs/
+https://github.com/pgte/pouch-redux-middleware
+https://github.com/calvinmetcalf/crypto-pouch
+
+ 
