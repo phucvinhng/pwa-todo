@@ -1,4 +1,4 @@
-Agenda
+﻿Agenda
 - CouchDB
 - PouchDB
 - PWA
@@ -35,15 +35,16 @@ PWA:
 - https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#making-a-progressive-web-app
 - https://developers.google.com/web/progressive-web-apps/
 - https://developers.google.com/web/fundamentals/web-app-manifest/
+- https://pwa.rocks/
 - Lighthouse
 
 SW: 
 - https://caniuse.com/#feat=serviceworkers
 
 Useful:
-https://couchdb.readthedocs.io/en/latest/maintenance/compaction.html#compaction
 http://docs.couchdb.org/en/latest/ddocs/views/intro.html
 https://github.com/pouchdb-community/pouchdb-authentication/blob/master/docs/recipes.md
+https://couchdb.readthedocs.io/en/latest/maintenance/compaction.html#compaction
 https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html
 https://pouchdb.com/faq.html#data_limits
 https://serviceworke.rs/
